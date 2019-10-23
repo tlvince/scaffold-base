@@ -1,0 +1,23 @@
+{
+  "name": "NAME",
+  "version": "1.0.0",
+  "description": "DESCRIPTION",
+  "main": "MAIN",
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlvince/NAME.git"
+  },
+  "keywords": [
+    "KEYWORDS"
+  ],
+  "author": "Tom Vincent <git@tlvince.com> (https://tlvince.com)",
+  "bugs": {
+    "url": "https://github.com/tlvince/TODO/issues"
+  },
+  "homepage": "https://github.com/tlvince/NAME#readme",
+  "files": [
+    "dist/"
+  ]
+}
