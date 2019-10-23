@@ -2,7 +2,7 @@
   "name": "NAME",
   "version": "1.0.0",
   "description": "DESCRIPTION",
-  "main": "MAIN",
+  "main": "src/index.js",
   "license": "MIT",
   "scripts": {},
   "repository": {
@@ -14,7 +14,7 @@
   ],
   "author": "Tom Vincent <git@tlvince.com> (https://tlvince.com)",
   "bugs": {
-    "url": "https://github.com/tlvince/TODO/issues"
+    "url": "https://github.com/tlvince/NAME/issues"
   },
   "homepage": "https://github.com/tlvince/NAME#readme",
   "files": [

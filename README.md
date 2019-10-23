@@ -6,6 +6,10 @@
 
 ```shell
 npx degit tlvince/scaffold-base <project-name>
+cd <project-name>
+perl -i -p -e  "s/NAME/project-name/g" *
+perl -i -p -e  "s/DESCRIPTION/project-description/g" *
+perl -i -p -e  "s/KEYWORDS/project-keywords/g" *
 ```
 
 ## Author
